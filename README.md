@@ -6,6 +6,7 @@ NumPy
 pandas
 Matplotlib
 Seaborn
+
 Why this project?
 Data visualization is an important skill that is used in many parts of the data analysis process.
 
