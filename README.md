@@ -3,8 +3,11 @@ What do I need to install?
 This project uses Python 3 and is designed to be completed through the Jupyter Notebooks IDE. It is highly recommended that you use the Anaconda distribution to install Python, since the distribution includes all necessary Python libraries as well as Jupyter Notebooks. The following libraries are expected to be used in this project:
 
 NumPy
+
 pandas
+
 Matplotlib
+
 Seaborn
 
 Why this project?
